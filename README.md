@@ -26,6 +26,6 @@ This free and beginner-friendly course introduces you to **Git**, the most popul
 ## 🏁 Final Project + Certificate
 
 Complete the course to get a **Completion Certificate**. Share it with potential employers or on your [Certificate](https://simpli-web.app.link/e/E9Zg8k1KeVb).
-![Git Course Completion Certificate](https://simpli-web.app.link/e/E9Zg8k1KeVb)
+![Git Course Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/main/img1.PNG?raw=true)
 
 
