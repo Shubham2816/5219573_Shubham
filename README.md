@@ -29,6 +29,6 @@ Complete the course to get a **Completion Certificate**. Share it with potential
 ![Git Course Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/main/img1.PNG?raw=true)
 
 # 🚀 SDLC
-![Git Course Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/master/SDLC/agile%20as%20beginners.PNG?raw=true)
+![Git Course Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/master/SDLC/ss2.PNG?raw=true)
 
 
