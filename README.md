@@ -29,13 +29,14 @@ Complete the course to get a **Completion Certificate**. Share it with potential
 ![Git Course Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/main/img1.PNG?raw=true)
 
 # 🚀 SDLC
-![Git Course Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/master/SDLC/ss2.PNG?raw=true)
+![SDLC Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/master/SDLC/ss2.PNG?raw=true)
 
 
 # 🚀 C language
-![Git Course Completion Certificate](https://github.com/user-attachments/assets/cfc4a3e7-1982-4dbe-8c82-55ac0f50f72e)
-![Git Course Completion Certificate](https://github.com/Shubham2816/5219573_Shubham/blob/master/SDLC/ss2.PNG?raw=true)
+![C beginner Certificate](https://github.com/user-attachments/assets/cfc4a3e7-1982-4dbe-8c82-55ac0f50f72e)
+![C intermediate Certificate](https://github.com/user-attachments/assets/a21d230b-5aab-4ceb-bc42-5692452a5340)
 
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/a21d230b-5aab-4ceb-bc42-5692452a5340" />
 
 
 
